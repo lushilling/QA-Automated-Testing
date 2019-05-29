@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Task2Test" project="Task2" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.qa.bae.Task2Test.Task2Test" time="15.718">
+    <testcase name="task2Test" classname="com.qa.bae.Task2Test.Task2Test" time="15.718"/>
+  </testsuite>
+</testrun>
